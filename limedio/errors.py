@@ -1,0 +1,2 @@
+class LimedioLoginError(Exception):
+    pass
